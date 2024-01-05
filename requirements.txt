@@ -5,3 +5,4 @@ torch
 torchvision 
 torchaudio 
 matplotlib==3.8.2
+tqdm==4.66.1
