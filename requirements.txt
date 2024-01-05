@@ -1,2 +1,7 @@
 requests==2.31.0
 beautifulsoup4==4.12.2
+--index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision 
+torchaudio 
+matplotlib==3.8.2
